@@ -156,6 +156,8 @@ public class SimpleSample extends ChaincodeBase {
 	public static void main(String[] args) throws Exception {
 		new SimpleSample().start(args);
 	}
+	
 
+	
 
 }
