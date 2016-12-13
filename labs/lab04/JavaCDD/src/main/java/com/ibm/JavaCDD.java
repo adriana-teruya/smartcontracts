@@ -239,8 +239,8 @@ public class JavaCDD extends ChaincodeBase {
 	/**
 	 * Just a easiest way to retrieve a contract by its name
 	 */
-	public String ateruya() {
-		return "JavaCDD";
+	public String getChaincodeID() {
+		return "ateruya";
 	}
 
 	public static void main(String[] args) throws Exception {
